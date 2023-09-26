@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="f" x1="-.063966" x2="-.063279" y1="-.032472" y2=".12394" xlink:href="#a"/>
+  <linearGradient id="g" x1="-.062553" x2="-.062553" y1="-.040753" y2=".13879" xlink:href="#a"/>
+  <linearGradient id="e" x1=".025942" x2=".19272" y1=".042888" y2=".18851">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fffcfc" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g fill-rule="evenodd">
+  <g stroke-width="0">
+   <path d="m360.52 94.989l-91.664 93.383 49.41 1.725-78.396 77.91 33.205 0.62-55.02 60.782 132.94-74.142-49.488 0.522 100.17-79.988-54.186-0.1332 89.029-83.172-76.007 2.4928z" fill="url(#e)" opacity=".789" stroke="#ff8600"/>
+   <path d="m370.32 136.23c0 16.441-25.939 29.768-57.936 29.768s-57.936-13.328-57.936-29.768c0-16.441 25.939-29.768 57.936-29.768s57.936 13.328 57.936 29.768z" fill="url(#f)" opacity=".845" stroke="url(#g)" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="m307.24 19.405l-175.58 178.87 94.641 3.305-150.16 149.23 63.602 1.187-105.39 116.43 254.65-142.02-94.79 1 191.88-153.21-103.79-0.255 170.53-159.31-145.59 4.775v-9.9e-5z" stroke="#000" stroke-width=".605"/>
+ </g>
+</svg>
